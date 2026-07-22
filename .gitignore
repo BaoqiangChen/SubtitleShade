@@ -1,0 +1,11 @@
+# Build artifacts
+SubtitleShade.exe
+SubtitleShade.app/
+*.o
+
+# User settings (generated at runtime)
+SubtitleShade.config.txt
+SubtitleShade.config.json
+
+# Local editor/tool settings
+.claude/
