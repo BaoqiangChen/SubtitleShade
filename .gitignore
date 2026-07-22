@@ -2,6 +2,7 @@
 SubtitleShade.exe
 SubtitleShade.app/
 *.o
+*.zip
 
 # User settings (generated at runtime)
 SubtitleShade.config.txt
